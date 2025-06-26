@@ -6,6 +6,7 @@ import { aboutPage } from "./about.js";
 homePage();
 
 
+
 const content = document.querySelector("#content");
 
 // buttons
